@@ -34,7 +34,7 @@ def random_plot():
 for _ in range(30):
     random_plot()
 plt.axis('off')
-plt.savefig("map.png",dpi=500)
+plt.savefig("map_out/map.png",dpi=500)
 plt.show()
 
     
