@@ -3,6 +3,8 @@
 Spyder Editor
 
 random map generator
+
+created by: Justin Mathew
 """
 
 import numpy as np
